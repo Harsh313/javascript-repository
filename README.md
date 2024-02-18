@@ -13,7 +13,7 @@ To begin your journey with JavaScript, follow these steps:
 
 2. **Navigate to the Repository**: Enter the cloned directory:
    ```
-   cd javascript-learning
+   cd javascript-repository
    ```
 
 3. **Explore the Contents**: Take a look at the directories and files available in the repository. You'll find structured learning materials, exercises, and examples to guide your learning.
@@ -38,8 +38,6 @@ This repository is organized into several sections, each covering different aspe
 
 8. **Frameworks and Libraries**: Explore popular JavaScript frameworks and libraries such as React, Vue.js, and Angular.
 
-## Contributing
-
 
 ## Resources
 
@@ -50,9 +48,7 @@ In addition to this repository, here are some recommended resources to supplemen
 - [JavaScript.info](https://javascript.info/): A modern JavaScript tutorial covering all aspects of the language.
 - [Eloquent JavaScript](https://eloquentjavascript.net/): A book providing a thorough introduction to JavaScript programming.
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
