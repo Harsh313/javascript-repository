@@ -36,8 +36,6 @@ This repository is organized into several sections, each covering different aspe
 
 7. **Modules and Bundlers**: Learn about JavaScript modules and how to use bundlers like Webpack to manage dependencies in your projects.
 
-8. **Frameworks and Libraries**: Explore popular JavaScript frameworks and libraries such as React, Vue.js, and Angular.
-
 
 ## Resources
 
